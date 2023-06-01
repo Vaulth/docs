@@ -13,10 +13,12 @@ description: In this page you will found how you can connect to your vaulth dash
 ### If you don't have, you can go [here](https://metamask.io/) to create one.
 
 ### When you have the Metamask browser extention you can select an account that you will connect with.
-<figure><img src="../.gitbook/assets/dashboard-connect-buttons.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dashboard-select-account.png" alt="" width="150"><figcaption></figcaption></figure>
 
 ### Click on connect again to accept that vaulth can get your address, balances and activity wallet.
-<figure><img src="../.gitbook/assets/dashboard-connect-buttons.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dashboard-accept-condition.png" alt="" width="150"><figcaption></figcaption></figure>
 
 ### Great job, you are now connected on the vaulth dashboard !
+<figure><img src="../.gitbook/assets/dashboard-connected.png" alt="" width="150"><figcaption></figcaption></figure>
+
 ### You can start to create your first seal by visiting the next page.

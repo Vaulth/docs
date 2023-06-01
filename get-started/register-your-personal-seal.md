@@ -1,6 +1,6 @@
 ---
-description: In-depth documentation on certificates
+description: In this page you will know how to register your personal seal on the vaulth dashboard
 ---
 
-# Register your personal seal
+# Register my personal seal
 

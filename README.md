@@ -4,8 +4,8 @@ description: Official vaulth documentation pages
 
 # Discover Vaulth
 
-<figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="50"><figcaption></figcaption></figure>
-<figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="50"></figure>
+<figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="500"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="500"></figure>
 <img src=".gitbook/assets/vaulth-logo.png" alt="" width="50">
 
 ## Genesis

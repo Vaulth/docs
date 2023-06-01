@@ -24,4 +24,4 @@ Click on connect to accept giving to vaulth dashboard your address, balances and
 Great job, you are now connected on the vaulth dashboard !
 <figure><img src="../.gitbook/assets/dashboard-connected.png" alt=""><figcaption></figcaption></figure>
 
-You can start to create your first seal by visiting the [next page](create-your-certificate.md).
+You can start to create your first seal by visiting the [next page](get-vaulth-seal-ticket.md).

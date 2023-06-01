@@ -23,8 +23,8 @@ A certificate is an NFT extended with signability features that allows the creat
 
 <figure><img src=".gitbook/assets/vaulth-concept-schema.png" alt=""><figcaption></figcaption></figure>
 
-## Were can you find vaulth
-Vaulth is based on 3 differents plaform:
-- [a vitrine website](https://vaulth.app/)
-- [a dashboard website](https://www.dashboard.vaulth.app/)
-- [a mobile app](https://play.google.com/store/apps/details?id=Vaulth)
+## Platforms
+Vaulth is based on 3 differents plaforms, a vitrine website to find more information about us, a dashboard website to manage your seals and certificates and a mobile application to easily connect your certificate with your piece of art.
+* [Vitrine website](https://vaulth.app/)
+* [Dashboard website](https://www.dashboard.vaulth.app/)
+* [Mobile app](https://play.google.com/store/apps/details?id=com.vaulth)

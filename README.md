@@ -2,9 +2,9 @@
 description: Official vaulth documentation pages
 ---
 
-# <img src=".gitbook/assets/vaulth-logo.png" alt="" width="50"> Discover Vaulth
+# Discover Vaulth
 
-<figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="100"><figcaption></figcaption></figure>
 
 ## Genesis
 Vaulth is a project started by students developers at EPITECH (Lyon, France) as part of the Epitech Innovative Project.</br>
@@ -21,4 +21,4 @@ We built our tech stack on the analogy of certificates and entity seals usually 
 An user who want to issue or sign certificates have to mint their personal seal, a representation of a (person, institution, company, etc...) and be use to approve certificates.</br>
 A certificate is an NFT extended with signability features that allows the creator to allow other seals to sign their certificate.
 
-<figure><img src=".gitbook/assets/vaulth-concept.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vaulth-concept-schema.png" alt=""><figcaption></figcaption></figure>

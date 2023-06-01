@@ -2,7 +2,7 @@
 description: Official vaulth documentation pages
 ---
 
-# Discover Vaulth
+# <img src=".gitbook/assets/vaulth-logo.png" alt="" width="50"> Discover Vaulth
 
 <figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="300"><figcaption></figcaption></figure>
 

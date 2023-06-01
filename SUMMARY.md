@@ -8,9 +8,9 @@
 * [Connect to vaulth dashboard](get-started/connect-to-vaulth.md)
 * [Get Vaulth seal ticket](get-started/get-vaulth-seal-ticket.md)
 * [Register your personal seal](get-started/register-your-personal-seal.md)
-* [(HELP) I have an issue by registering my seal](get-started/register-your-seal-issue.md)
+* [I have an issue by registering my seal (HELP)](get-started/register-your-seal-issue.md)
 * [Create a certificate for my artwork](get-started/create-your-certificate.md)
-* [(HELP) I have an issue by creating a certificate](get-started/create-your-certificate-issue.md)
+* [I have an issue by creating a certificate (HELP)](get-started/create-your-certificate-issue.md)
 * [Manage certificate signatures](get-started/manage-certificate-signatures.md)
 * [Link my certificate to a physical artwork](get-started/link-to-physical-object.md)
 

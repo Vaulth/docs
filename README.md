@@ -4,7 +4,7 @@ description: Official vaulth documentation pages
 
 # Discover Vaulth
 
-<figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="100"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vaulth-logo.png" alt="" width="150"><figcaption></figcaption></figure>
 
 ## Genesis
 Vaulth is a project started by students developers at EPITECH (Lyon, France) as part of the Epitech Innovative Project.</br>
@@ -22,3 +22,9 @@ An user who want to issue or sign certificates have to mint their personal seal,
 A certificate is an NFT extended with signability features that allows the creator to allow other seals to sign their certificate.
 
 <figure><img src=".gitbook/assets/vaulth-concept-schema.png" alt=""><figcaption></figcaption></figure>
+
+## Were can you find vaulth
+Vaulth is based on 3 differents plaform:
+- [a vitrine website](https://vaulth.app/)
+- [a dashboard website](https://www.dashboard.vaulth.app/)
+- [a mobile app](https://play.google.com/store/apps/details?id=Vaulth)

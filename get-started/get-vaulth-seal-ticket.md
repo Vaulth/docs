@@ -17,3 +17,5 @@ You can send a mail at vaulth.contact@gmail.com, request a ticket on our [ticket
 * [twitter](https://twitter.com/Vaulthfr)
 * [linkedin](https://www.linkedin.com/company/vaulthfr/)
 * [instagram](https://www.instagram.com/vaulth_fr/)
+
+Now you have received your seal ticket you can create your seal by clicking on the [next page](register-your-personal-seal.md)

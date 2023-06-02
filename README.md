@@ -17,7 +17,7 @@ We are effectively digitizing certificates of authenticity and signatures, and p
 Our goal is to maximize the real-world utility of decentralized certificates.
 
 ## Concepts
-We built our tech stack on the analogy of certificates and entity seals usually used like proof of authenticity.</br>
+We built our tech stack on the analogy of certificates and seals entity usually used like proof of authenticity.</br>
 An user who want to issue or sign certificates have to mint their personal seal, a representation of a (person, institution, company, etc...) and be use to approve certificates.</br>
 A certificate is an NFT extended with signability features that allows the creator to allow other seals to sign their certificate.
 

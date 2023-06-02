@@ -3,18 +3,18 @@ description: In this page you will found how you can connect to your vaulth dash
 ---
 
 # Connect to Vaulth dashboard
+### Why vaulth dashboard need you to connect with a crypto wallet ?
+Vaulth is a web3 solution, that mean thanks to vaulth dashboard, you will be able to create seals and certificates on the blockchain.</br>
+This connectivity on the blockchain will give you garanty of security and transparency on the creation and transfere of your piece of art.
 
-Go to vaulth dashboard by clicking [here](https://www.dashboard.vaulth.app).
-
-### Connect
-Once the dashboard is open into a navigator you should click on "Connect wallet" or "Enter vaulth".
-<figure><img src="../.gitbook/assets/dashboard-connect-buttons.png" alt=""><figcaption></figcaption></figure>
-
-### Metamask browser extention
+### Metamask browser extention (Recomended)
 To connect on the dashboard you should have a Metamask account and the browser extention.
 If you don't have, you can go [here](https://metamask.io/) to create one.
 
 ### Configuration
+Go to vaulth dashboard by clicking [here](https://www.dashboard.vaulth.app) and click on "Connect wallet" or "Enter vaulth".
+<figure><img src="../.gitbook/assets/dashboard-connect-buttons.png" alt=""><figcaption></figcaption></figure>
+
 When you have the Metamask browser extention you can select an account that you will connect with.
 <figure><img src="../.gitbook/assets/dashboard-select-account.png" alt=""><figcaption></figcaption></figure>
 

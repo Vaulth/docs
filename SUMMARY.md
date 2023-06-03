@@ -12,6 +12,10 @@
 * [Manage certificate signatures](get-started/manage-certificate-signatures.md)
 * [Link my certificate to my physical artwork](get-started/link-to-physical-object.md)
 
+## Help
+* [I have an issue by registering my seal](get-started/register-your-seal-issue.md)
+* [I have an issue by creating a certificate](get-started/create-your-certificate-issue.md)
+
 ## In-Depth section (for developper)
 
 * [Vaulth dashboard](in-depth/dashboard.md)

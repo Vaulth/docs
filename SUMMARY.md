@@ -6,7 +6,7 @@
 ## Get started with vaulth
 
 * [Connect to vaulth dashboard](get-started/connect-to-vaulth.md)
-* [Get a vaulth seal ticket](get-started/get-vaulth-seal-ticket.md)
+* [Get a vaulth seal voucher](get-started/get-vaulth-seal-voucher.md)
 * [Register your personal seal](get-started/register-your-personal-seal.md)
 * [I have an issue by registering my seal (HELP)](get-started/register-your-seal-issue.md)
 * [Create a certificate for my artwork](get-started/create-your-certificate.md)

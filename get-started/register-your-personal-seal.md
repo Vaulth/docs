@@ -32,4 +32,4 @@ Once the mint is approved, click on the "Mint" button to mint your stamp.</br>
 You will be able to find you new seal on your [Seal library](https://www.dashboard.vaulth.app/library/stamps).
 
 ### Issues with seal registering ?
-You can click [here](register-your-seal-issue.md) to being redirect into the help page of register a seal.
+You can click [here](../help/register-your-seal-issue.md) to being redirect into the help page of register a seal.

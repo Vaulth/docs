@@ -17,14 +17,14 @@ We are effectively digitizing certificates of authenticity and signatures, and p
 Our goal is to maximize the real-world utility of decentralized certificates.
 
 ## Concepts
-We built our tech stack on the analogy of certificates and seals entity usually used like proof of authenticity.</br>
-An user who want to issue or sign certificates have to mint their personal seal, a representation of a (person, institution, company, etc...) and be use to approve certificates.</br>
-A certificate is an NFT extended with signability features that allows the creator to allow other seals to sign their certificate.
+We built our tech stack on the analogy of certificates and stamps entity usually used like proof of authenticity.</br>
+An user who want to issue or sign certificates have to mint their personal stamp, a representation of a (person, institution, company, etc...) and be use to approve certificates.</br>
+A certificate is an NFT extended with signability features that allows the creator to allow other stamps to sign their certificate.
 
 <figure><img src=".gitbook/assets/vaulth-concept-schema.png" alt=""><figcaption></figcaption></figure>
 
 ## Platforms
-Vaulth is based on 3 differents plaforms, a vitrine website to find more information about us, a dashboard website to manage your seals and certificates and a mobile application to easily connect your certificate with your piece of art.
+Vaulth is based on 3 differents plaforms, a vitrine website to find more information about us, a dashboard website to manage your stamps and certificates and a mobile application to easily connect your certificate with your piece of art.
 * [Vitrine website](https://vaulth.app/)
 * [Dashboard website](https://www.dashboard.vaulth.app/)
 * [Mobile app](https://play.google.com/store/apps/details?id=com.vaulth)

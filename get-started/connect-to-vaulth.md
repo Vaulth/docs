@@ -24,4 +24,4 @@ Click on connect to accept giving to vaulth dashboard your address, balances and
 Great job, you are now connected on the vaulth dashboard !
 <figure><img src="../.gitbook/assets/connection/dashboard-connected.png" alt=""><figcaption></figcaption></figure>
 
-You can start to create your first stamp by visiting the [next page](get-vaulth-stamp-ticket.md).
+You can start to create your first stamp by visiting the [next page](get-vaulth-stamp-voucher.md).

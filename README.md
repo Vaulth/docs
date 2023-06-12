@@ -4,7 +4,7 @@ description: Official vaulth documentation pages
 
 # Discover Vaulth
 
-<figure><img src=".gitbook/assets/vaulth-logo-letters.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vaulth-logo-letters.png" alt=""><figcaption></figcaption></figure>
 
 ## Genesis
 Vaulth is a project started by students developers at EPITECH (Lyon, France) as part of the Epitech Innovative Project.</br>

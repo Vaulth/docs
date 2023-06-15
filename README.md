@@ -8,8 +8,8 @@ description: Official vaulth documentation pages
 
 ## Genesis
 Vaulth is a project started by students developers at EPITECH (Lyon, France) as part of the Epitech Innovative Project.</br>
-Our starting point was finding how we can help people with real-life authentication concerns use the security of blockchain technology.</br>
-We found out vaulth idea that is a solution which able everyone to create secure digital certificate for differentes type of physical artwork.
+Our starting point was finding how we can help people with real-life authentication concerns, using the security of blockchain technology.</br>
+We found out vaulth idea, that is a solution which able everyone to create secure digital certificate for differentes type of physical artwork.
 
 <figure><img src=".gitbook/assets/props-of-vaulth.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ A certificate is an NFT extended with signability features that allows the creat
 <figure><img src=".gitbook/assets/vaulth-schema.png" alt=""><figcaption></figcaption></figure>
 
 ## Platforms
-Vaulth is based on 3 differents plaforms, a vitrine website to find more information about us, a dashboard website to manage your stamps and certificates and a mobile application to easily connect your certificate with your piece of art.
-* [Vitrine website](https://vaulth.app/)
-* [Dashboard website](https://www.dashboard.vaulth.app/)
-* [Mobile app](https://play.google.com/store/apps/details?id=com.vaulth)
+Vaulth is based on 3 differents plaforms:
+* A [Vitrine website](https://vaulth.app/) to find more information about us.
+* A [Dashboard website](https://www.dashboard.vaulth.app/) to manage your stamps and certificates.
+* A [Mobile application](https://play.google.com/store/apps/details?id=com.vaulth) to easily connect your certificate with your piece of art.

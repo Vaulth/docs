@@ -1,5 +1,5 @@
 ---
-description: In this page you will know how to get your vaulth stamp voucher to be able to create your stamp
+description: In this page you will know how to get your vaulth stamp voucher to be able to create your stamp.
 ---
 
 # Get my stamp voucher

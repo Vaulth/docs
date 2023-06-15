@@ -1,5 +1,5 @@
 ---
-description: In this page you will found how you can connect to the vaulth dashboard with your wallet account ?
+description: In this page you will found how you can connect to the vaulth dashboard with your wallet account.
 ---
 
 # Connect to Vaulth dashboard
@@ -15,7 +15,7 @@ If you don't have, you can go [here](https://metamask.io/) to create one.
 Go to [vaulth dashboard](https://www.dashboard.vaulth.app) and click on "Connect wallet" or "Enter vaulth".
 <figure><img src="../.gitbook/assets/connection/dashboard-connect-buttons.png" alt=""><figcaption></figcaption></figure>
 
-When you have the Metamask browser extention you can select an account that you will connect with.
+Select an account that you will connect with.
 <figure><img src="../.gitbook/assets/connection/dashboard-select-account.png" alt=""><figcaption></figcaption></figure>
 
 Click on connect to accept giving to vaulth dashboard your address, balances and activity wallet.

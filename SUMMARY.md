@@ -12,15 +12,16 @@
 * [Manage certificate signatures](get-started/manage-certificate-signatures.md)
 * [Link my certificate to my physical artwork](get-started/link-to-physical-object.md)
 
-## Help
-* [I have an issue by registering my stamp](help/register-your-stamp-issue.md)
-* [I have an issue by creating a certificate](help/create-your-certificate-issue.md)
+## Get help
+* [List of questions and anwser](help/general-questions.md)
+* [Read our blog for more questions](help/read-our-blog.md)
+* [Particular issue ? contact the support](help/contact-vaulth-support.md)
 
 ## In-Depth section (for developper)
 
-* [Vaulth dashboard](in-depth/dashboard.md)
-* [Vaulth mobile (android)](in-depth/mobile-android.md)
-* [Vaulth mobile (IOS)](in-depth/mobile-ios.md)
-* [Vaulth back-end](in-depth/back-end.md)
-* [Certificates](in-depth/certificates.md)
-* [Stamps](in-depth/stamps.md)
+* [Vaulth Dashboard](in-depth/dashboard.md)
+* [Vaulth Mobile](in-depth/mobile.md)
+* [Vaulth Back-end](in-depth/back-end.md)
+* [Vaulth Smart contract](in-depth/smart-contract.md)
+* [Vaulth Support](in-depth/support.md)
+* [Vaulth Landing page](in-depth/landing-page.md)

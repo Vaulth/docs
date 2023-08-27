@@ -2,20 +2,24 @@
 description: In this page you will know how to get your vaulth stamp voucher to be able to create your stamp.
 ---
 
-# Get my stamp voucher
-### Why do you need a stamp voucher delivered by vaulth to create your personal stamp ?
-Vaulth is still on a beta version and we would like to handle first clients as well as possible.</br>
-To do that, we decided to create a voucher, that will allow you to create a stamp to sign your certificates.
+# Get your stamp voucher
+### Why Obtain a Vaulth Voucher to Create Your Personal Stamp?
+Welcome to Vaulth's beta version! Our priority is to ensure the safety and satisfaction of our pioneering users. To achieve this, we've introduced the Stamp 
+Voucher—an exclusive pass that grants you the ability to create a personal stamp for endorsing your certificates.
 
-### How can i request a voucher for my account ?
-For now, the only way to ask for a voucher is to send us a message on our social network or mail.</br>
-On this mail you have to give us your wallet address to allow us to send you the voucher.</br>
-Entire vaulth team is on hand to reply to you as soon as possible.
+### How to Request Your Voucher ?
+Requesting your voucher is a simple process designed to make your experience seamless and secure. Follow these steps:
 
-### Where can i send a request ?
-You can send a mail at vaulth.contact@gmail.com, request a ticket on our [ticket platform](http://35.180.188.15:8080/) but also contact us via our social media:
-* [twitter](https://twitter.com/Vaulthfr)
-* [linkedin](https://www.linkedin.com/company/vaulthfr/)
-* [instagram](https://www.instagram.com/vaulth_fr/)
+1. Send us a message via our social networks or email.
+2. Include your wallet address in the message to receive your voucher.
+3. Our dedicated Vaulth team is poised to respond promptly and assist you throughout.
 
-Now you have received your stamp voucher you can create your stamp by clicking on the [next page](register-your-personal-stamp.md)
+### Where to Submit Your Request
+Feel free to choose the platform that suits you best for requesting your voucher:
+
+* **Email**: vaulth.contact@gmail.com
+* [Ticket Platform](http://35.180.188.15:8080/): Create a ticket for your request.
+* **Social Media**: Reach out to us on [Twitter](https://twitter.com/Vaulthfr), [Linkedin](https://www.linkedin.com/company/vaulthfr/), or [Instagram](https://www.
+instagram.com/vaulth_fr/).
+
+Once you've received your Stamp Voucher, you're ready to embark on the journey of creating your personal stamp. Just click the link to the next page to get started.

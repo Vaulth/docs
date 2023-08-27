@@ -16,6 +16,7 @@
 * [List of questions and anwser](help/general-questions.md)
 * [Read our blog for more questions](help/read-our-blog.md)
 * [Particular issue ? contact the support](help/contact-vaulth-support.md)
+* [Glossary](help/glossary.md)
 
 ## In-Depth section (for developper)
 

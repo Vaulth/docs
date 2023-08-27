@@ -19,7 +19,7 @@ Feel free to choose the platform that suits you best for requesting your voucher
 
 * **Email**: vaulth.contact@gmail.com
 * [Ticket Platform](http://35.180.188.15:8080/): Create a ticket for your request.
-* **Social Media**: Reach out to us on [Twitter](https://twitter.com/Vaulthfr), [Linkedin](https://www.linkedin.com/company/vaulthfr/), or [Instagram](https://www.
-instagram.com/vaulth_fr/).
+* **Social Media**: Reach out to us on [Twitter](https://twitter.com/Vaulthfr), [Linkedin](https://www.linkedin.com/company/vaulthfr/), or 
+[Instagram](https://www.instagram.com/vaulth_fr/).
 
 Once you've received your Stamp Voucher, you're ready to embark on the journey of creating your personal stamp. Just click the link to the next page to get started.

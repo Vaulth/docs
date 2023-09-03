@@ -2,8 +2,6 @@
 description: In-depth documentation on vaulth back-end
 ---
 
-# Vaulth Back-end
-
 # Vaulth's Back-end Introduction:
 
 Vaulth's backend is the engine that fuels the entire ecosystem, facilitating the secure and efficient exchange of data between users and the blockchain. This crucial 

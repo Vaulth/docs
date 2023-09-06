@@ -2,46 +2,47 @@
 description: This page will show you how to create a certification for your artwork
 ---
 
-# Create my artwork certification
+# Create My Artwork Certification
 
-### Certify my artwork step by step
-1. Login to the Vaulth dashboard and go to the create certificate page [here](https://www.dashboard.vaulth.app/certificate/create).
+## Certify Your Artwork - Step by Step
 
-2. Fill all information part about your piece of art:
-- Picture
-- title
-- artist name
-- description
-- other field like dimension or technique.
-<figure><img src="../.gitbook/assets/create-certificate/fill-information.png" alt=""><figcaption></figcaption></figure>
+1. **Log into the Vaulth Dashboard**: Start by logging in to the Vaulth dashboard. Navigate to the "Create Certificate" page by clicking [here](https://www.dashboard.
+2. vaulth.app/certificate/create).
 
-3. Choose a stamp between all yours to sign your new certificate.
-<figure><img src="../.gitbook/assets/create-certificate/choose-stamp.png" alt=""><figcaption></figcaption></figure>
+3. **Fill in Artwork Details**: Provide all the necessary information about your artwork, including:
+   - Artwork Picture
+   - Title
+   - Artist Name
+   - Description
+   - Additional details like dimensions or technique.
+   
+   ![Fill in Information](../.gitbook/assets/create-certificate/fill-information.png)
+4. **Select a Stamp**: Choose one of your stamps to sign your new certificate.
+   
+   ![Choose a Stamp](../.gitbook/assets/create-certificate/choose-stamp.png)
 
-<figure><img src="../.gitbook/assets/create-certificate/choose-stamp.png" alt=""><figcaption></figcaption></figure>
+5. **Review Information**: Before finalizing your certificate, review all the entered information. Some details may not be changeable after minting.
+   
+   ![Confirm Information](../.gitbook/assets/create-certificate/confirm-information.png)
 
-4. Once you have pick one you can click to check all your information before minting the certificate. Some informations will not be able to change after minting.
+6. **Mint and Create**: Click on the "Mint" button and then "Create" to complete your certificate.
+   
+   ![Mint Certificate](../.gitbook/assets/create-certificate/mint-certificate.png)
+   ![Create Certificate](../.gitbook/assets/create-certificate/create-certificate.png)
 
-<figure><img src="../.gitbook/assets/create-certificate/confirm-information.png" alt=""><figcaption></figcaption></figure>
+7. **Confirm Transaction**: A pop-up from your Metamask extension will appear. Confirm the transaction.
+   
+   ![Confirm Transaction](../.gitbook/assets/create-certificate/confirm-transaction.png)
 
-5. You can now click on the Mint button and also on create to finalised your certificate.
+8. **Wait for Confirmation**: Wait for a few seconds for the confirmation message. It will appear if the transaction was successful.
+   
+   ![Certificate Validation](../.gitbook/assets/create-certificate/certificate-validation.png)
 
-<figure><img src="../.gitbook/assets/create-certificate/mint-certificate.png" alt=""><figcaption></figcaption></figure>
+## Finding Your New Certificate
 
-<figure><img src="../.gitbook/assets/create-certificate/create-certificate.png" alt=""><figcaption></figcaption></figure>
+You can access your newly created certificate in your [certificate library](https://www.dashboard.vaulth.app/library/certificates).
 
-6. A pop up from your Metamask extension will appear, and you have to confirm the transaction.
+## Encountering Issues with Certificate Creation?
 
-<figure><img src="../.gitbook/assets/create-certificate/confirm-transaction.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/create-certificate/transaction-confirmed.png" alt=""><figcaption></figcaption></figure>
-
-6. You have to wait a few seconds for the confirmation message, it will appear if the transaction was successful.
-
-<figure><img src="../.gitbook/assets/create-certificate/certificate-validation.png" alt=""><figcaption></figcaption></figure>
-
-### Find my new certificate
-You will be able to find you new certificate on your [certificate library](https://www.dashboard.vaulth.app/library/certificates).
-
-### Issues with certificate creation ?
-You can click [here](../help/contact-vaulth-support.md) to being redirect into the help page.
+If you encounter any issues during the certificate creation process, please [click here](../help/contact-vaulth-support.md) to be redirected to our help page for 
+further assistance.

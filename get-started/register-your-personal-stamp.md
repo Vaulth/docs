@@ -2,53 +2,49 @@
 description: In this page you will know how to register your personal stamp on the vaulth dashboard.
 ---
 
-# Register my personal stamp
+# Register My Personal Stamp
 
-### Why do i need to create a stamp to certify my artwork ?
-As explain before, a stamp is a representation of an entity that you want to represent (person, institution, company, etc...).</br>
-A stamp can be use to create certificates but also proof your approval of authenticity.
+## Why Do I Need to Create a Stamp to Certify My Artwork?
 
-### Create my personal stamp step by step
-1. Login to the vaulth dashboard and go to the create stamp page [here](https://www.dashboard.vaulth.app/stamp/create).
+As explained earlier, a stamp is a representation of an entity you want to represent (a person, institution, company, etc.). A stamp can be used to create 
+certificates and provide proof of your approval of authenticity.
 
-2. Register your [ENS](https://iq.wiki/wiki/ens) subdomaine name to be sure that your stamp is unique and authentic.</br>
-You can fill your [ENS](https://iq.wiki/wiki/ens) subdomaine name by your artist nickname or you company name.</br>
-Once you have filled your [ENS](https://iq.wiki/wiki/ens), you can click on "add metadata".</br>
+## Create My Personal Stamp - Step by Step
 
-<figure><img src="../.gitbook/assets/create-stamp/fill-ENS.png" alt=""><figcaption></figcaption></figure>
----- Photo du screen [ENS](https://iq.wiki/wiki/ens) avec fleche 1 qui pointe vers input ens et fleche 2 qui pointe vers button add metadata.
+1. **Log into the Vaulth Dashboard**: Begin by logging in to the Vaulth dashboard. Access the "Create Stamp" page by clicking [here](https://www.dashboard.vaulth.app/stamp/create).
 
-3. You can now fill all the data require to create your stamp like:
-- the name
-- the picture of you or the logo of your company
-- a brief description of what kind of entity the stamp is supposed to represent
-- a tag chosen between Artist, Art gallery, Museum or Editor.</br>
-Once you have filled all your data, you can click on "Mint stamp".</br>
+2. **Register Your [ENS](https://iq.wiki/wiki/ens) Subdomain Name**: Ensure the uniqueness and authenticity of your stamp by registering your [ENS](https://iq.wiki/wiki/ens) subdomain name. You can use your artist nickname or your company name as the [ENS](https://iq.wiki/wiki/ens) subdomain name. After entering your [ENS](https://iq.wiki/wiki/ens) subdomain name, click "Add Metadata."
+   ![Fill in ENS](../.gitbook/assets/create-stamp/fill-ENS.png)
 
-<figure><img src="../.gitbook/assets/create-stamp/fill-information.png" alt=""><figcaption></figcaption></figure>
----- Photo screen du form rempli avec fleche 1, 2, 3, 4 pour remplir info et 5 sur le button Mint stamp.
+3. **Complete Stamp Information**: Fill in all the required data to create your stamp, including:
+   - Name
+   - Picture (your photo or your company logo)
+   - A brief description of the entity the stamp represents
+   - Choose a tag from Artist, Art gallery, Museum, or Editor. Once all the data is filled, click "Mint Stamp."
+   ![Fill Information](../.gitbook/assets/create-stamp/fill-information.png)
 
-4. Before going further, you should check your [ENS](https://iq.wiki/wiki/ens) subdomaine name (you will not be able to change it after the stamp is minted).
-<figure><img src="../.gitbook/assets/create-stamp/check-info.png" alt=""><figcaption></figcaption></figure>
+4. **Review [ENS](https://iq.wiki/wiki/ens) Subdomain Name**: Before proceeding, double-check your [ENS](https://iq.wiki/wiki/ens) subdomain name (you won't be able to change it after minting).
+   ![Check Info](../.gitbook/assets/create-stamp/check-info.png)
 
-5. Once you are sure about your information you can click on the "Approve" button and on "Broadcast transaction" to confirm the transaction with your Wallet.</br>
-Once the mint is approved, click on the "Mint" button to mint your stamp.</br>
-<figure><img src="../.gitbook/assets/create-stamp/approve-1.png" alt=""><figcaption></figcaption></figure>
-<figure><img src="../.gitbook/assets/create-stamp/approve-2.png" alt=""><figcaption></figcaption></figure>
+5. **Approve and Mint Stamp**: Click "Approve" and then "Broadcast Transaction" to confirm the transaction with your wallet. Once approved, click the "Mint" button to mint your stamp.
+   ![Approve](../.gitbook/assets/create-stamp/approve-1.png)
+   ![Approve](../.gitbook/assets/create-stamp/approve-2.png)
 
-6. Now that you have approved your stamp, you can click on the Mint button and create your stamp.</br>
-<figure><img src="../.gitbook/assets/create-stamp/mint-stamp.png" alt=""><figcaption></figcaption></figure>
+6. **Finalize Your Stamp**: After approving your stamp, click "Mint" to create your stamp.
+   ![Mint Stamp](../.gitbook/assets/create-stamp/mint-stamp.png)
 
-7. Confirm the Metamask transaction to finalize your stamp
-<figure><img src="../.gitbook/assets/create-stamp/confirm-transaction.png" alt=""><figcaption></figcaption></figure>
-<figure><img src="../.gitbook/assets/create-stamp/confirmed-transaction.png" alt=""><figcaption></figcaption></figure>
+7. **Confirm Metamask Transaction**: Confirm the Metamask transaction to complete your stamp.
+   ![Confirm Transaction](../.gitbook/assets/create-stamp/confirm-transaction.png)
+   ![Transaction Confirmed](../.gitbook/assets/create-stamp/confirmed-transaction.png)
 
-8. You have to wait a few seconds for the confirmation message, it will appear if the transaction was successful.
-<figure><img src="../.gitbook/assets/create-stamp/stamp-validation.png" alt=""><figcaption></figcaption></figure>
+8. **Wait for Confirmation**: Wait a few seconds for the confirmation message; it will appear if the transaction was successful.
+   ![Stamp Validation](../.gitbook/assets/create-stamp/stamp-validation.png)
 
-### Find my new personal stamp
-You will be able to find you new stamp on your [stamp library](https://www.dashboard.vaulth.app/library/stamps).
-<figure><img src="../.gitbook/assets/create-stamp/find-my-stamp.png" alt=""><figcaption></figcaption></figure>
+## Finding My New Personal Stamp
 
-### Issues with stamp registering ?
-You can click [here](../help/contact-vaulth-support.md) to being redirect into the help page.
+You can access your newly created stamp in your [stamp library](https://www.dashboard.vaulth.app/library/stamps).
+   ![Find My Stamp](../.gitbook/assets/create-stamp/find-my-stamp.png)
+
+## Issues with Stamp Registration?
+
+If you encounter any issues while registering your stamp, please [click here](../help/contact-vaulth-support.md) to be redirected to our help page.

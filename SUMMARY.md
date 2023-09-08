@@ -9,7 +9,7 @@
 * [Get a vaulth stamp voucher](get-started/get-vaulth-stamp-voucher.md)
 * [Register your personal stamp](get-started/register-your-personal-stamp.md)
 * [Create a certificate for my artwork](get-started/create-your-certificate.md)
-* [Link my certificate to my physical artwork](get-started/link-to-physical-object.md)
+* [Link my certificate to my physical artwork](get-started/link-to-physical-artwork.md)
 <!-- * [Manage certificate signatures](get-started/manage-certificate-signatures.md) -->
 
 ## Get help

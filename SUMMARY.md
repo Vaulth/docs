@@ -23,5 +23,5 @@
 * [Vaulth Mobile](in-depth/mobile.md)
 * [Vaulth Back-end](in-depth/back-end.md)
 * [Vaulth Smart contract](in-depth/smart-contract.md)
-* [Vaulth Support](in-depth/support.md)
+<!-- * [Vaulth Support](in-depth/support.md) -->
 * [Vaulth Landing page](in-depth/landing-page.md)

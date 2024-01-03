@@ -2,36 +2,39 @@
 description: This page is designed to guide you on how to link a certificate to your physical artwork.
 ---
 
-# Link to a Physical Artwork
+# Connect on mobile and Link to a Physical Artwork
 
 To link a certificate to your physical artwork, follow these steps using the Vaulth mobile app:
 
 1. **Open the Vaulth Mobile App**: Launch the Vaulth mobile app on your device.
 
+<figure><img src="../.gitbook/assets/mobile/Connection-mobile.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobile/Connection-mobile-2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobile/Connection-mobile-3.jpg" alt=""><figcaption></figcaption></figure>
+
 2. **Navigate to Your Owned Certificates**: On the app's home page, locate and select the certificate you wish to link to your physical artwork. This will open up the 
 certificate details.
 
-3. **Access the Tag Writing Option**: Within the certificate details, look for the button typically located in the lower-right corner of the screen.
+<figure><img src="../.gitbook/assets/mobile/Home-page.jpg" alt=""><figcaption></figcaption></figure>
 
-4. **Click on "Write on Tag"**: Click on the "WriteonTag" button. An action sheet will open, providing you with further options.
+3. **Click on "Write on Tag"**: Click on the "WriteonTag" button. An action sheet will open, providing you with further options.
 
-5. **Initiate Writing to the NFC Tag**: In the action sheet, you'll find an option labeled 'Write on the tag'. Click on this button to begin the process.
+<figure><img src="../.gitbook/assets/mobile/Certificate-nfc-write.jpg" alt=""><figcaption></figcaption></figure>
 
-6. **Bring Your Phone to the NFC Tag**: Hold your phone close to the NFC tag that you want to link to your certificate. Ensure that the NFC tag is in close proximity 
+4. **Bring Your Phone to the NFC Tag**: Hold your phone close to the NFC tag that you want to link to your certificate. Ensure that the NFC tag is in close proximity 
 to your device.
 
-7. **Writing Confirmation**: Once the writing process is complete, you'll receive a confirmation message. Please note that once the certificate is successfully 
-written to the NFC tag, it cannot be changed again.
+**Click on "Scan a Tag"**: Look for the "Scan a Tag" button on the search page and click it.
+   
+<figure><img src="../.gitbook/assets/mobile/Certificate-nfc-write.jpg" alt=""><figcaption></figcaption></figure>
 
-## Scanning an NFC Tag
+5. **Scan the NFC Tag**: Hold your device close to the NFC tag you want to scan. The app will automatically detect and interact with the tag.
 
-Additionally, you can also scan an NFC tag directly from the search page. Here's how:
+<figure><img src="../.gitbook/assets/mobile/Certificate-nfc-read.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobile/Certificate-nfc-read-.jpg" alt=""><figcaption></figcaption></figure>
 
-1. **Access the Search Page**: Navigate to the search page within the Vaulth mobile app.
+6. **Transfer your certificate**: Click on The transfer button into a certificate page to open the transfer action sheet, fill the receiver address manually and click on transfer.
 
-2. **Click on "Scan a Tag"**: Look for the "Scan a Tag" button on the search page and click it.
-
-3. **Scan the NFC Tag**: Hold your device close to the NFC tag you want to scan. The app will automatically detect and interact with the tag.
-
-By following these steps, you'll successfully link your certificate to your physical artwork using the Vaulth mobile app.
+<figure><img src="../.gitbook/assets/mobile/Transfer.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobile/Transfer2.jpg" alt=""><figcaption></figcaption></figure>
 

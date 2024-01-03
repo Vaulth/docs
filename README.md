@@ -44,11 +44,13 @@ Experience the seamless world of Vaulth through three interconnected platforms, 
 * Vaulth [Vitrine website](https://vaulth.app/): Discover more about us and the transformative potential of blockchain technology in art authentication. Visit our 
 Vitrine website to gain deeper insights into our mission and explore the possibilities.
 
-* Vaulth [Dashboard website](https://www.dashboard.vaulth.app/): Take control of your authenticity journey with our Dashboard website. Seamlessly manage your stamps 
+* Vaulth [Dashboard website](https://dashboard.vaulth.app/): Take control of your authenticity journey with our Dashboard website. Seamlessly manage your stamps 
 and certificates, and witness the fusion of innovation and security as you navigate your way through the art world.
 
-* Vaulth [Mobile application](https://play.google.com/store/apps/details?id=com.vaulth): Access the world of Vaulth from the palm of your hand. Our Mobile application 
+* Vaulth [Mobile application](https://vaulth.app/): Access the world of Vaulth from the palm of your hand. Our Mobile application 
 offers unparalleled convenience, allowing you to effortlessly connect your certificates with your treasured pieces of art. Elevate your art authentication experience 
 anytime, anywhere.
+
+* Vaulth [Support](https://support.vaulth.app/): Asking question or chat with our teams, tell us more about your impression of the vaulth solution.
 
 Explore our platforms and embrace the future of art authentication with Vaulth.

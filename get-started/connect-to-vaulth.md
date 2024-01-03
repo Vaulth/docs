@@ -15,9 +15,15 @@ process but also enhances the security of your interactions with the Vaulth dash
 ### Connection to the dashboard
 
 1. Navigate to the [Vaulth dashboard](https://www.dashboard.vaulth.app).
-2. Once there, navigate to the top of the page and spot the "Connect wallet" or "Enter Vaulth" button.
+2. Once there, navigate to the top of the page and spot the "Connect wallet" button.
 
-<figure><img src="../.gitbook/assets/connection/dashboard-connect-buttons.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/connection/Connection-1.png" alt=""><figcaption></figcaption></figure>
+
+### Wallet Selection
+
+Select a wallet that you want to connect with.
+
+<figure><img src="../.gitbook/assets/connection/Connection-2.png" alt=""><figcaption></figcaption></figure>
 
 ### Account Selection
 
@@ -25,19 +31,19 @@ With your account selected, the moment of connection arrives. Click the "Connect
 your wallet. This includes your wallet address, balances, and transaction history. Rest assured, your data remains secure within the bounds of your chosen crypto 
 wallet.
 
-<figure><img src="../.gitbook/assets/connection/dashboard-select-account.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/connection/Connection-3.png" alt=""><figcaption></figcaption></figure>
 
 ### Connection Confirmation
 
 With your account selected, the moment of connection arrives. Click the "Connect" button to seamlessly grant the Vaulth dashboard access to specific details within your wallet. This includes your wallet address, balances, and transaction history. Rest assured, your data remains secure within the bounds of your chosen crypto wallet.
 
-<figure><img src="../.gitbook/assets/connection/dashboard-accept-condition.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/connection/Connection-4.png" alt=""><figcaption></figcaption></figure>
 
 ### Congratulations, You're Connected!
 
 With a successful connection, you've unlocked the gateway to Vaulth's creative universe. Your dashboard experience is now seamlessly integrated with your crypto wallet, bridging the gap between art and technology.
 
-<figure><img src="../.gitbook/assets/connection/dashboard-connected.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/connection/Connection-5.png" alt=""><figcaption></figcaption></figure>
 
 ### Ready to Create
 Embark on your journey by crafting your first stamp. To get started, visit the [next page](get-vaulth-stamp-voucher.md).

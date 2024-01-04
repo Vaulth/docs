@@ -2,6 +2,22 @@
 description: This page is designed to guide you on how to link a certificate to your physical artwork.
 ---
 
+# Download the app from the vitrine website
+Get access to the [Vitrine website](https://vaulth.app/) and click on the mobile app button:
+<figure><img src="../.gitbook/assets/mobile/Download.jpg" alt=""><figcaption></figcaption></figure>
+
+# Rename the zip file into vaulth.apk
+Rename the zip file from your download folder to vaulth.apk:
+
+<figure><img src="../.gitbook/assets/mobile/Rename.jpg" alt=""><figcaption></figcaption></figure>
+
+# Install the vaulth.apk on your phone
+Now click on the vaulth.apk file and download the app on your phone:
+
+<figure><img src="../.gitbook/assets/mobile/Install.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 # Connect on mobile and Link to a Physical Artwork
 
 To link a certificate to your physical artwork, follow these steps using the Vaulth mobile app:
@@ -18,8 +34,6 @@ certificate details.
 <figure><img src="../.gitbook/assets/mobile/Home-page.jpg" alt=""><figcaption></figcaption></figure>
 
 3. **Click on "Write on Tag"**: Click on the "WriteonTag" button. An action sheet will open, providing you with further options.
-
-<figure><img src="../.gitbook/assets/mobile/Certificate-nfc-write.jpg" alt=""><figcaption></figcaption></figure>
 
 4. **Bring Your Phone to the NFC Tag**: Hold your phone close to the NFC tag that you want to link to your certificate. Ensure that the NFC tag is in close proximity 
 to your device.
